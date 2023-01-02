@@ -1,1 +1,1 @@
-# Discord image bot
+# Boilerplate Discord bot code
