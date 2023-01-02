@@ -1,1 +1,1 @@
-# PlaygroundBot
+# Discord image bot
